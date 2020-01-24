@@ -4,7 +4,7 @@ Michael Muhlmeyer, Shaurya Agarwal, Jiheng Huang
 >This is the code reference page of the paper "Modeling Social Contagion and Information Diffusion in Complex Socio-technical Systems". 
 >    
 
-This paper is available via this [link] (https://ieeexplore.ieee.org/abstract/document/8654733) and citation is provided here:
+This paper is available via this [link](https://ieeexplore.ieee.org/abstract/document/8654733) and citation is provided here:
 
 
 >@article{muhlmeyer2019event,    
