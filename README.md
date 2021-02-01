@@ -6,7 +6,7 @@ Michael Muhlmeyer, Jiheng Huang, Shaurya Agarwal
 
 For more information, please refer to the following: 
 
-  - M. Muhlmeyer, J. Huang and S. Agarwal, ["Event Triggered Social Media Chatter: A New Modeling Framework"](https://ieeexplore.ieee.org/abstract/document/8654733) in IEEE Transactions on Computational Social Systems, vol. 6, no. 2, pp. 197-207, April 2019
+  - M. Muhlmeyer, J. Huang and S. Agarwal, ["Event Triggered Social Media Chatter: A New Modeling Framework"](https://ieeexplore.ieee.org/document/8654733) in IEEE Transactions on Computational Social Systems, vol. 6, no. 2, pp. 197-207, April 2019
 
 ### Citation
     @article{muhlmeyer2019event,    
