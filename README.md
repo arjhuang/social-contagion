@@ -6,8 +6,8 @@ Michael Muhlmeyer, Shaurya Agarwal, Jiheng Huang
 
 This paper is available via this [link](https://ieeexplore.ieee.org/abstract/document/8654733) and citation is provided here:
 
-
->@article{muhlmeyer2019event,    
+### Citation
+@article{muhlmeyer2019event,    
   title={Event Triggered Social Media Chatter: A New Modeling Framework},    
   author={Muhlmeyer, Michael and Huang, Jiheng and Agarwal, Shaurya},    
   journal={IEEE Transactions on Computational Social Systems},    
