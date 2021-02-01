@@ -1,10 +1,12 @@
-# Modeling Social Contagion and Information Diffusion in Complex Socio-technical Systems | Programming Repository
-Michael Muhlmeyer, Shaurya Agarwal, Jiheng Huang
+# Event Triggered Social Media Chatter: A New Modeling Framework | Programming Repository
+Michael Muhlmeyer, Jiheng Huang, Shaurya Agarwal
 
->This is the code reference page of the paper "Modeling Social Contagion and Information Diffusion in Complex Socio-technical Systems". 
+>This is the code reference page of the paper "Event Triggered Social Media Chatter: A New Modeling Framework". 
 >    
 
-This paper is available via this [link](https://ieeexplore.ieee.org/abstract/document/8654733) and citation is provided here:
+For more information, please refer to the following: 
+
+  - M. Muhlmeyer, J. Huang and S. Agarwal, ["Event Triggered Social Media Chatter: A New Modeling Framework"](https://ieeexplore.ieee.org/abstract/document/8654733) in IEEE Transactions on Computational Social Systems, vol. 6, no. 2, pp. 197-207, April 2019
 
 ### Citation
     @article{muhlmeyer2019event,    
