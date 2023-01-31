@@ -16,6 +16,7 @@ For more information, please refer to the following:
       volume={6},    
       number={2},    
       pages={197--207},    
-      year={2019},    
+      year={2019}, 
+      doi={10.1109/TCSS.2019.2897674}
       publisher={IEEE}    
     }
